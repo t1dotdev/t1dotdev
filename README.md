@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Petch Panuphong</h1>
 
-[![Spotify](https://petchxgithub.vercel.app/api/spotify)](https://open.spotify.com/user/31w27zxdogxwfjiqy7xoly3p5rba)
+[![Spotify](https://novatorem-koux8rurd-petchxgithub.vercel.app/api/spotify)](https://open.spotify.com/user/31w27zxdogxwfjiqy7xoly3p5rba)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petchxgithub&label=Profile%20views&color=0e75b6&style=flat" alt="petchxgithub" /> </p>
 
@@ -22,4 +22,3 @@
     <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
     
 </span>
-
