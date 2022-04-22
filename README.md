@@ -1,8 +1,12 @@
-<h1>Hi 👋, I'm Petch Panuphong</h1>
+<h1>I'm Petch Panuphong</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=petchxgithub&label=Profile%20views&color=0e75b6&style=flat" alt="petchxgithub" /> </p>
+
+<h2>LISTENING TO SPOTIFY</h2>
 
 [![Spotify](https://novatorem-koux8rurd-petchxgithub.vercel.app/api/spotify)](https://open.spotify.com/user/31w27zxdogxwfjiqy7xoly3p5rba)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=petchxgithub&label=Profile%20views&color=0e75b6&style=flat" alt="petchxgithub" /> </p>
+
 
 <h2>Connect with me <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" style="margin-left:5px;" width="30px"></h2>
 <a target="_blank" href="https://web.facebook.com/petchxpanuphong/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
@@ -22,3 +26,4 @@
     <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
     
 </span>
+
