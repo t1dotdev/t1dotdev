@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petchxgithub&label=Profile%20views&color=0e75b6&style=flat" alt="petchxgithub" /> </p>
 
 <h3 align="left">Follow me</h3>
----
+___
 <p align="left">
   <a href="https://instagram.com/petchxig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="petchxig" height="30" width="40" /></a>
 <a href="https://twitter.com/panuphongxtw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="panuphongxtw" height="30" width="40" /></a>
