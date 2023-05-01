@@ -2,10 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petchxgithub&label=Profile%20views&color=0e75b6&style=flat" alt="petchxgithub" /> </p>
 
-<h2>LISTENING TO SPOTIFY</h2>
-
-[![Spotify](https://novatorem-koux8rurd-petchxgithub.vercel.app/api/spotify)](https://open.spotify.com/user/31w27zxdogxwfjiqy7xoly3p5rba)
-
 
 
 <h2>Connect with me <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" style="margin-left:5px;" width="30px"></h2>
