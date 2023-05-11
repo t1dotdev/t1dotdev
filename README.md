@@ -13,6 +13,6 @@
 const Petchx = {
     name: Panuphong Burakitphachai,
     can: [ Web Development, Mobile Application Development, Software Development, Ux/Ui Design ],
-    skills: [ HTML, CSS, JAVASCRIPT, PYTHON, JAVA, PHP, NODEJS, FLUTTER ],
+    skills: [ HTML, CSS, JAVASCRIPT, PYTHON, JAVA, PHP, NODEJS, DART, FLUTTER ],
 }
 ```
