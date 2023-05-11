@@ -1,6 +1,3 @@
-<h1>I'm Petch Panuphong</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=petchxgithub&label=Profile%20views&color=0e75b6&style=flat" alt="petchxgithub" /> </p>
-
 ```batch
     ____       __       __
    / __ \___  / /______/ /_ _  __
