@@ -10,13 +10,9 @@
 ```
 
 ```javascript
-// Create var Petchx to store the in formation for showing on github readme.md
 const Petchx = {
-    name: "Panuphong Burakitphachai",
-    can: ["Web Development", "Mobile Application Development", "Software Development", "UI/UX Design",],
-    skills: ["HTML", "CSS", "JavaScript", "Python", "Java", "PHP", "Node.js", "Flutter"],
-    social: {
-        instagram: "https://www.instagram.com/petchxig/",
-    }
+    name: PanuphongBurakitphachai,
+    can: [WebDevelopment, MobileApplicationDevelopment, SoftwareDevelopment, Design],
+    skills: [HTML, CSS, JAVASCRIPT, PYTHON, JAVA, PHP, NODEJS, FLUTTER],
 }
 ```
