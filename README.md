@@ -16,3 +16,10 @@ const Petchx = {
     skills: [ HTML, CSS, JAVASCRIPT, PYTHON, JAVA, PHP, NODEJS, DART, FLUTTER ],
 }
 ```
+
+```javascript
+function getWork(Cash){
+    let work = Cash / ☕️ ;
+    return work;
+}
+```
