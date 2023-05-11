@@ -1,37 +1,22 @@
-<h1>I'm Petch Panuphong</h1>
 
+
+<h1>I'm Petch Panuphong</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petchxgithub&label=Profile%20views&color=0e75b6&style=flat" alt="petchxgithub" /> </p>
 
+```batch
+    ____       __       __        
+   / __ \___  / /______/ /_  _  __
+  / /_/ / _ \/ __/ ___/ __ \| |/_/
+ / ____/  __/ /_/ /__/ / / />  <  
+/_/    \___/\__/\___/_/ /_/_/|_|  
+```
 
 ```javascript
 const Petchx = {
   languages: [JavaScript, HTML, CSS, Python, Java, Dart, PHP],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
-<h2>Connect with me <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" style="margin-left:5px;" width="30px"></h2>
-<a target="_blank" href="https://web.facebook.com/petchxpanuphong/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a target="_blank" href="https://www.instagram.com/petchxig/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a target="_blank" href="https://twitter.com/panuphongxtw"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a target="_blank" href="mailto:petchxpanuphong@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<br/> <br/> <br/>
-</p>
 
-<h2>My Skills</h2>
-
-<span style="display:flex; gap:10px;">
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
-    <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
-    
-</span>
 
 
