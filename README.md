@@ -12,7 +12,7 @@
 ```javascript
 const Petchx = {
     name: PanuphongBurakitphachai,
-    can: [WebDevelopment, MobileApplicationDevelopment, SoftwareDevelopment, Design],
-    skills: [HTML, CSS, JAVASCRIPT, PYTHON, JAVA, PHP, NODEJS, FLUTTER],
+    can: [ WebDevelopment, MobileApplicationDevelopment, SoftwareDevelopment, Design ],
+    skills: [ HTML, CSS, JAVASCRIPT, PYTHON, JAVA, PHP, NODEJS, FLUTTER ],
 }
 ```
