@@ -15,8 +15,12 @@ const Petchx = {
 ```
 
 ```javascript
-function getWork(Cash){
-    let work = Cash / ☕️ ;
-    return work;
+while(!success){
+    if(failed){
+        improvement++;
+    }
+    if(improvement == enough){
+        success = true;
+    }
 }
 ```
