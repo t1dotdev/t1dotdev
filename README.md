@@ -15,7 +15,7 @@ const Petchx = {
 ```
 
 ```javascript
-while(!freedom){
+while(!success){
     if(failed){
         skills++;
     }
