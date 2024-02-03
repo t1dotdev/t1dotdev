@@ -25,4 +25,4 @@ while(!success){
 }
 ```
 
-<a href='https://petchx.dev' style='text-decoration: none; color: purple;'>Check out my website</a>
+👾 <a href='https://petchx.dev'>Check out my website</a>
