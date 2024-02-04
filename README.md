@@ -22,5 +22,3 @@ while(!success){
     }
 }
 ```
-
-👾 <a href='https://petchx.dev'>Check out my website</a>
