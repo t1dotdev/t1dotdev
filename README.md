@@ -16,7 +16,7 @@ const Petchx = {
 ```
 
 ```javascript
-if(brain){
+if (brain) {
     keepCoding();
 } else {
     orderCoffee();
