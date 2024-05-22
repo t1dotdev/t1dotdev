@@ -16,9 +16,9 @@ const Petchx = {
 ```
 
 ```javascript
-while(!success){
-    if(failed){
-        skills++;
-    }
+if(brain){
+    keepCoding();
+} else {
+    orderCoffee();
 }
 ```
