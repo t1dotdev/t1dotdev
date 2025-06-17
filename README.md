@@ -2,29 +2,40 @@
 
 ████████╗ ██████╗ ██████╗  ██████╗ ███╗   ██╗███████╗
 ╚══██╔══╝██╔═══██╗██╔══██╗██╔═══██╗████╗  ██║██╔════╝
-   ██║   ██║   ██║██████╔╝██║   ██║██╔██╗ ██║█████╗  
-   ██║   ██║   ██║██╔═══╝ ██║   ██║██║╚██╗██║██╔══╝  
+   ██║   ██║   ██║██████╔╝██║   ██║██╔██╗ ██║█████╗
+   ██║   ██║   ██║██╔═══╝ ██║   ██║██║╚██╗██║██╔══╝
    ██║   ╚██████╔╝██║     ╚██████╔╝██║ ╚████║███████╗
    ╚═╝    ╚═════╝ ╚═╝      ╚═════╝ ╚═╝  ╚═══╝╚══════╝
-                                                                                                                 
+
 ```
 
 ```javascript
 const topone = {
-    name: Panuphong Burakitphachai,
-    skills: [ Web Development, Mobile Application Development, Ux/Ui Design, Full Stack ],
-    tools: [ HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT, NEXTJS, NODEJS, PYTHON, JAVA, PHP, DART, FLUTTER, TAILWIND, SQL, PRISMA, DRIZZLE, T3, VITE, VUE ],
-    editor: 'nvim',
-    term: 'warp',
-}
+  name: "Panuphong Burakitphachai",
+  skills: {
+    frontend: [
+      "TypeScript",
+      "JavaScript",
+      "Next.js",
+      "React",
+      "HTML",
+      "CSS",
+      "Tailwind CSS",
+    ],
+    backend: ["Node.js", "tRPC", "Express", "Elysia", "Python", "Java", "PHP"],
+    mobile: ["React Native", "Flutter", "Dart"],
+    database: ["SQL", "Prisma", "Drizzle", "Firebase", "Supabase"],
+    devops: ["GitHub", "Docker", "AWS"],
+    tools: ["Figma", "ChatGPT Plus"],
+  },
+  workflow: ["Neovim", "Tmux", "Ghostty", "Aerospace"],
+};
 ```
-    
 
 ```javascript
 if (brain) {
-    keepCoding();
+  keepCoding();
 } else {
-    orderCoffee();
+  orderCoffee();
 }
 ```
-
